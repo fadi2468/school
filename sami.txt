@@ -1,0 +1,14 @@
+my files
+
+<<<<<<< HEAD
+than111ks84
+4444444
+=======
+than111ks888888888888
+fdgewrg
+>>>>>>> second
+<<<<<<< HEAD
+fadittttttttttttttsgsgsgs
+=======
+sssssssttttttttt
+>>>>>>> secondfertes
